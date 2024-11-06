@@ -42,7 +42,7 @@ docker-compose up
 
 ## Diagrama de Entidade e Relacionamento (ER)
 
-![Diagrama de Entidade e Relacionamento (ER)](https://ibb.co/kHKPq4q)
+![Diagrama de Entidade e Relacionamento (ER)](https://github.com/lucasagw/case-cvc/blob/main/document/db_cvc_case.png)
 
 
 
